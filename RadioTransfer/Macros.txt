@@ -1,0 +1,17 @@
+"d"	~	The day of the month, from 1 through 31.	~	2009-06-15T13:45:30 -> 06/15/2009	~~
+"dd"	~	The day of the month, from 01 through 31.	~	2009-06-15T13:45:30 -> 15	~~
+"ddd"	~	The abbreviated name of the day of the week.	~	2009-06-15T13:45:30 -> Mon (en-US)	~~
+"dddd"	~	The full name of the day of the week.	~	2009-06-15T13:45:30 -> Monday (en-US)	~~
+"hh"	~	The hour, using a 12-hour clock from 01 to 12.	~	2009-06-15T01:45:30 -> 01	~~
+"HH"	~	The hour, using a 24-hour clock from 00 to 23.	~	2009-06-15T01:45:30 -> 01	~~
+"m"	~	The minute, from 0 through 59.	~	2009-06-15T01:09:30 -> 9	~~
+"mm"	~	The minute, from 00 through 59.	~	2009-06-15T01:09:30 -> 09	~~
+"M"	~	The month, from 1 through 12.	~	2009-06-15T13:45:30 -> 6	~~
+"MM"	~	The month, from 01 through 12.	~	2009-06-15T13:45:30 -> 06	~~
+"MMM"	~	The abbreviated name of the month.	~	2009-06-15T13:45:30 -> Jun (en-US)	~~
+"MMMM"	~	The full name of the month.	~	2009-06-15T13:45:30 -> June (en-US)	~~
+"ss"	~	The second, from 00 through 59.	~	2009-06-15T13:45:09 -> 09	~~
+"tt"	~	The AM/PM designator.	~	2009-06-15T13:45:30 -> PM (en-US)	~~
+"yyyy"	~	The year as a four-digit number.	~	2009-06-15T13:45:30 -> 2009	~~
+"zz"	~	Hours offset from UTC, with a leading zero for a single-digit value.	~	2009-06-15T13:45:30-07:00 -> -07	~~
+"zzz"	~	Hours and minutes offset from UTC.	~	2009-06-15T13:45:30-07:00 -> -07:00	~~

@@ -1,0 +1,1 @@
+﻿Radio.Transfer.exe install --autostart
