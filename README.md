@@ -10,16 +10,16 @@ Following Network file types scheduled download are supported
 5. `RSS Feed`
 
 ## User Interface
-1. Radio Transfer Splash Screen
+1. Radio Transfer Splash Screen<br/>
 ![Radio Transfer Splash Screen](https://github.com/user-attachments/assets/a55c1827-aa87-4289-9f89-1e8fd596b550)
 
-2. CRON Scheduler .NET Winforms interface
+2. CRON Scheduler .NET Winforms interface<br/>
 ![CRON Scheduler .NET Winforms interface](https://github.com/user-attachments/assets/9a3621b9-874d-4d3e-9bf2-38f03eb279d2)
 
-3. Supported Network Types
+3. Supported Network Types<br/>
 ![Supported Network Types](https://github.com/user-attachments/assets/eab4f55f-3d75-446d-82b4-bf5d3a0a4a37)
 
-4. Application UI
+4. Application UI<br/>
 ![Application UI](https://github.com/user-attachments/assets/e0dafb54-25e1-4a3a-a19c-a8d2a823e771)
 
 Made with ♥ in India by Nitin Sawant
